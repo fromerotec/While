@@ -15,7 +15,7 @@ La línea `#escribe tu código abajo de esta línea` es un comentario, el progra
 
 ## Descripción del programa  
 
-Escribe un programa que lea la clave del artículo que va a comprar (nota que es letra mayúscula) o X si ya no quiere comprar más artículos. El programa debe mostrar en la pantalla el precio correspondiente a cada artículo pedido, el programa debe repetirse mientras el usuario no teclee la clave X, cuando el usuario teclee la clave X el programa debe mostrar en la pantalla el total de la compra del cliente.
+Escribe un programa que lea la clave del artículo que va a comprar (nota que es letra mayúscula) o X si ya no quiere comprar más artículos. El programa debe mostrar en la pantalla el precio correspondiente a cada artículo pedido (el precio no lo captura el usuario, se obtiene de manera predeterminada del código), el programa debe repetirse mientras el usuario no teclee la clave X, cuando el usuario teclee la clave X el programa debe mostrar en la pantalla el total de la compra del cliente.
 
 Clave | Precio
 ------|-------
